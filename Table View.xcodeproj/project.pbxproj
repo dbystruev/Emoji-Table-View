@@ -13,6 +13,7 @@
 		69CBF084216C8526003A37D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69CBF082216C8526003A37D8 /* LaunchScreen.storyboard */; };
 		69CBF08C216C86A9003A37D8 /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CBF08B216C86A9003A37D8 /* Emoji.swift */; };
 		69CBF08E216C89BB003A37D8 /* EmojiTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CBF08D216C89BB003A37D8 /* EmojiTableViewController.swift */; };
+		69CBF090216CA32D003A37D8 /* EmojiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CBF08F216CA32D003A37D8 /* EmojiTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		69CBF085216C8526003A37D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		69CBF08B216C86A9003A37D8 /* Emoji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 		69CBF08D216C89BB003A37D8 /* EmojiTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiTableViewController.swift; sourceTree = "<group>"; };
+		69CBF08F216CA32D003A37D8 /* EmojiTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				69CBF079216C8514003A37D8 /* AppDelegate.swift */,
 				69CBF07D216C8514003A37D8 /* Main.storyboard */,
+				69CBF08F216CA32D003A37D8 /* EmojiTableViewCell.swift */,
 				69CBF08D216C89BB003A37D8 /* EmojiTableViewController.swift */,
 				69CBF08B216C86A9003A37D8 /* Emoji.swift */,
 				69CBF080216C8526003A37D8 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			files = (
 				69CBF08C216C86A9003A37D8 /* Emoji.swift in Sources */,
 				69CBF08E216C89BB003A37D8 /* EmojiTableViewController.swift in Sources */,
+				69CBF090216CA32D003A37D8 /* EmojiTableViewCell.swift in Sources */,
 				69CBF07A216C8514003A37D8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
